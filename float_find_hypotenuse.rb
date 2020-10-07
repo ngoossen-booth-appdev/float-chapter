@@ -4,4 +4,9 @@
 # 
 # 5.3
 
+side_1 = 2.8
+side_2 = 4.5
 
+hypotenuse = (side_1**2+side_2**2)**0.5
+
+p hypotenuse
